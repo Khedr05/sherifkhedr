@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sherifkhadr.
 - 👀 I’m interested in automotive industry.
-- 🌱 I’m currently learning embedded software engineer.
+- 🌱 I’m currently learning embedded software Development.
 - 💞️ I’m looking to a postion as a junior embedded software engineer.
 - 📫 Fell free to reach me a cross linkedin @sherifkhadr.
 - ✨ Have a nice day.
