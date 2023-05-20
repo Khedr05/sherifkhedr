@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic&color=#1B9C85)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic&color=1B9C85)
 
 - 👋 Hi, I’m @sherifkhadr.
 - 👀 I’m interested in automotive industry.
