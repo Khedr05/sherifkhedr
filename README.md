@@ -69,7 +69,7 @@ I'm [Sherif Khadr](https://www.linkedin.com/in/sherifkhadr/), an embedded engine
 
 ## 🎉 My Contributions
 
-[![Sherif Khadr's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sherifkhadr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/sherifkhadr/github-readme-activity-graph)
+[![Sherif Khadr's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sherifkhadr&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 🔧 My Hardware Tools
 
