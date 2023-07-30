@@ -1,40 +1,44 @@
-# Hi there 👋
-
-I'm [Sherif Khadr](https://www.linkedin.com/in/sherifkhadr/), an embedded engineer with a passion for building innovative solutions. 
+#👋 Hi, I’m @sherifkhadr.
+- 👀 I’m interested in automotive industry.
+- 🌱 I’m currently learning Embedded Software Development.
+- 💞️ I’m looking for a position as a junior embedded software engineer.
+- ✨ Have a nice day.
 
 ## 🔭 I’m currently working on
 
-- Developing a firmware for an IoT device using C and Assembly
-- Building a custom PCB using Altium Designer
+- I’m currently enrolled in a four-month scholarship program at ITI.
+- I’m participating in a four-month bootcamp with Sprints. 
+  
+## ☄️ My Objective
+
+- Secure a junior embedded software engineer position.
 
 ## 🌱 I’m currently learning
 
-- Real-time operating systems (RTOS)
-- ARM Cortex-M architecture
-- Low power design techniques
+- Real-time operating systems (RTOS).
+- ARM Cortex-M architecture.
+- Embedded linux.
 
 ## 👯 I’m looking to collaborate on
 
-- Open source projects related to embedded systems
-- Building tools to help developers work more efficiently
+- Open source projects related to embedded systems.
+- Building tools to help developers work more efficiently.
 
 ## 📫 How to reach me
 
-- Email: [sherifkhadr@gmail.com](mailto:sherifkhadr@gmail.com)
-- LinkedIn: [Sherif Khadr](https://www.linkedin.com/in/sherifkhadr/)
-- Twitter: [@sherifkhadr_](https://twitter.com/sherifkhadr_)
-
+- Feel free to reach me via linkedin [@sherifkhadr](https://www.linkedin.com/in/sherifkhadr/).
+  
 ## 🛠️ My Skills
 
 ### Programming Languages
 
 - C
-- Assembly
+- C++
 - Python
 
 ### Development Tools
 
-- Altium Designer
+- vs studio
 - Keil uVision
 - STM32CubeIDE
 - Eclipse
@@ -71,10 +75,4 @@ I'm [Sherif Khadr](https://www.linkedin.com/in/sherifkhadr/), an embedded engine
 
 [![Sherif Khadr's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sherifkhadr&theme=tokyonight)](https://git.io/streak-stats)
 
-## 🔧 My Hardware Tools
 
-- Oscilloscope
-- Logic Analyzer
-- Multimeter
-- Soldering iron
-- Power supply
