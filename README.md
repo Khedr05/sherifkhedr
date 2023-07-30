@@ -14,7 +14,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherifkhadr&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sherifkhadr&theme=chalk)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sherifkhadr&theme=tokyonight)
 
 <!---
 sherifkhadr/sherifkhadr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
