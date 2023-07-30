@@ -78,9 +78,3 @@ I'm [Sherif Khadr](https://www.linkedin.com/in/sherifkhadr/), an embedded engine
 - Multimeter
 - Soldering iron
 - Power supply
-
-![Profile Views Counter](https://komarev.com/ghpvc/?username=sherifkhadr)
-
----
-
-[![LinkedIn Profile](https://github-readme-linkedin.vercel.app/user?username=sherifkhadr)](https://www.linkedin.com/in/sherifkhadr/)
