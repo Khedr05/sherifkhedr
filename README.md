@@ -64,7 +64,7 @@ I'm [Your Name], an embedded engineer with a passion for building innovative sol
 
 ## 📌 My Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sherifkhadr&repo=yourrepository&theme=dracula)](https://github.com/yourusername/yourrepository)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sherifkhadr&repo=yourrepository&theme=dracula)](https://github.com/sherifkhadr/yourrepository)
 
 ## 🎉 My Contributions
 
