@@ -1,22 +1,67 @@
-![](https://komarev.com/ghpvc/?username=sherifkhadr&style=plastic&color=1B9C85)
+# Hi there 👋
 
-- 👋 Hi, I’m @sherifkhadr.
-- 👀 I’m interested in automotive industry.
-- 🌱 I’m currently learning Embedded Software Development.
-- 💞️ I’m looking for a position as a junior embedded software engineer.
-- 📫 Feel free to reach me via linkedin [@sherifkhadr](https://www.linkedin.com/in/sherifkhadr/).
-- ✨ Have a nice day.
+I'm [Your Name], an embedded engineer with a passion for building innovative solutions. 
 
-### :fire: My Stats :
+## 🔭 I’m currently working on
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sherifkhadr&theme=tokyonight&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherifkhadr&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+- Developing a firmware for an IoT device using C and Assembly
+- Building a custom PCB using Altium Designer
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherifkhadr&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## 🌱 I’m currently learning
 
+- Real-time operating systems (RTOS)
+- ARM Cortex-M architecture
+- Low power design techniques
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sherifkhadr&theme=tokyonight)
+## 👯 I’m looking to collaborate on
 
-<!---
-sherifkhadr/sherifkhadr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Open source projects related to embedded systems
+- Building tools to help developers work more efficiently
+
+## 📫 How to reach me
+
+- Email: [youremail@example.com](mailto:youremail@example.com)
+- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
+## 🛠️ My Skills
+
+### Programming Languages
+
+- C
+- Assembly
+- Python
+
+### Development Tools
+
+- Altium Designer
+- Keil uVision
+- STM32CubeIDE
+- Eclipse
+- Git
+
+### Microcontrollers
+
+- ARM Cortex-M
+- PIC
+- AVR
+
+## 📊 My GitHub Stats
+
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherifkhadr&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📈 My GitHub Streak
+
+[![Your Name's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sherifkhadr&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+## 📊 My Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherifkhadr&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔧 My Hardware Tools
+
+- Oscilloscope
+- Logic Analyzer
+- Multimeter
+- Soldering iron
+- Power supply
