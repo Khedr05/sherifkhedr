@@ -58,6 +58,18 @@ I'm [Your Name], an embedded engineer with a passion for building innovative sol
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherifkhadr&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🏆 My GitHub Trophies
+
+[![Your Name's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sherifkhadr&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📌 My Pinned Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sherifkhadr&repo=yourrepository&theme=dracula)](https://github.com/yourusername/yourrepository)
+
+## 🎉 My Contributions
+
+[![Your Name's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sherifkhadr&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🔧 My Hardware Tools
 
 - Oscilloscope
