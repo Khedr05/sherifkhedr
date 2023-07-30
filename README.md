@@ -71,12 +71,6 @@ I'm [Sherif Khadr](https://www.linkedin.com/in/sherifkhadr/), an embedded engine
 
 [![Sherif Khadr's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sherifkhadr&theme=tokyonight)](https://git.io/streak-stats)
 
-## 🚀 GitHub Readme Activity
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sherifkhadr&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherifkhadr&theme=tokyonight)
-
 ## 🔧 My Hardware Tools
 
 - Oscilloscope
