@@ -1,4 +1,4 @@
-#👋 Hi, I’m @sherifkhadr.
+## 👋 Hi, I’m @sherifkhadr.
 - 👀 I’m interested in automotive industry.
 - 🌱 I’m currently learning Embedded Software Development.
 - 💞️ I’m looking for a position as a junior embedded software engineer.
