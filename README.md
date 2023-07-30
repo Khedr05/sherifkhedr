@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm [Your Name], an embedded engineer with a passion for building innovative solutions. 
+I'm [Sherif Khadr](https://www.linkedin.com/in/sherifkhadr/), an embedded engineer with a passion for building innovative solutions. 
 
 ## 🔭 I’m currently working on
 
@@ -20,9 +20,9 @@ I'm [Your Name], an embedded engineer with a passion for building innovative sol
 
 ## 📫 How to reach me
 
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Email: [sherifkhadr@gmail.com](mailto:sherifkhadr@gmail.com)
+- LinkedIn: [Sherif Khadr](https://www.linkedin.com/in/sherifkhadr/)
+- Twitter: [@sherifkhadr_](https://twitter.com/sherifkhadr_)
 
 ## 🛠️ My Skills
 
@@ -48,27 +48,27 @@ I'm [Your Name], an embedded engineer with a passion for building innovative sol
 
 ## 📊 My GitHub Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherifkhadr&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Sherif Khadr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherifkhadr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 My GitHub Streak
 
-[![Your Name's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sherifkhadr&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Sherif Khadr's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sherifkhadr&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## 📊 My Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherifkhadr&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherifkhadr&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 My GitHub Trophies
 
-[![Your Name's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sherifkhadr&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![Sherif Khadr's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sherifkhadr&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📌 My Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sherifkhadr&repo=yourrepository&theme=dracula)](https://github.com/sherifkhadr/yourrepository)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sherifkhadr&repo=yourrepository&theme=tokyonight)](https://github.com/sherifkhadr/yourrepository)
 
 ## 🎉 My Contributions
 
-[![Your Name's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sherifkhadr&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sherif Khadr's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sherifkhadr&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🔧 My Hardware Tools
 
