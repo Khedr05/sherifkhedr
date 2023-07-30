@@ -64,7 +64,7 @@ I'm [Sherif Khadr](https://www.linkedin.com/in/sherifkhadr/), an embedded engine
 
 ## 📌 My Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sherifkhadr&repo=yourrepository&theme=tokyonight)](https://github.com/sherifkhadr/yourrepository)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sherifkhadr&repo=yourrepository&theme=tokyonight)](https://github.com/sherifkhadr/SPRINTS_Automotive_Software_Bootcamp)
 
 ## 🎉 My Contributions
 
