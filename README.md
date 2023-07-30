@@ -64,11 +64,11 @@ I'm [Sherif Khadr](https://www.linkedin.com/in/sherifkhadr/), an embedded engine
 
 ## 📌 My Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sherifkhadr&repo=yourrepository&theme=tokyonight)](https://github.com/sherifkhadr/SPRINTS_Automotive_Software_Bootcamp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sherifkhadr&repo=my-awesome-repo&theme=tokyonight)](https://github.com/sherifkhadr/SPRINTS_Automotive_Software_Bootcamp)
 
 ## 🎉 My Contributions
 
-[![Sherif Khadr's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sherifkhadr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sherif Khadr's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sherifkhadr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&theme=tokyonight)](https://github.com/sherifkhadr)
 
 ## 🔧 My Hardware Tools
 
