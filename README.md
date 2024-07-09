@@ -26,7 +26,7 @@
 
 ## 📫 How to reach me
 
-- Feel free to reach me via linkedin [@sherifkhadr](https://www.linkedin.com/in/sherifkhadr/).
+- Feel free to reach me via linkedin [@sherifkhadr](https://www.linkedin.com/in/khedr05/).
   
 ## 🛠️ My Skills
 
