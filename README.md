@@ -26,7 +26,7 @@
 
 ## 📫 How to reach me
 
-- Feel free to reach me via linkedin [@sherifkhadr](https://www.linkedin.com/in/khedr05/).
+- Feel free to reach me via linkedin [@sherifkhedr](https://www.linkedin.com/in/khedr05/).
   
 ## 🛠️ My Skills
 
@@ -52,21 +52,21 @@
 
 ## 📊 My GitHub Stats
 
-[![Sherif Khadr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherifkhadr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Sherif Khedr's GitHub stats](https://github-readme-stats.vercel.app/api?username=khedr05&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 My GitHub Streak
 
-[![Sherif Khadr's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sherifkhadr&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Sherif Khedr's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khedr05&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## 📊 My Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherifkhadr&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khedr05&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 My GitHub Trophies
 
-[![Sherif Khadr's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sherifkhadr&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![Sherif Khedr's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=khedr05&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📌 My Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sherifkhadr&repo=SPRINTS_Automotive_Software_Bootcamp&theme=tokyonight)](https://github.com/sherifkhadr/SPRINTS_Automotive_Software_Bootcamp)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sherifkhadr&repo=ITI_ES_4M&theme=tokyonight)](https://github.com/sherifkhadr/ITI_ES_4M)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khedr05&repo=SPRINTS_Automotive_Software_Bootcamp&theme=tokyonight)](https://github.com/khedr05/SPRINTS_Automotive_Software_Bootcamp)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khedr05&repo=ITI_ES_4M&theme=tokyonight)](https://github.com/khedr05/ITI_ES_4M)
